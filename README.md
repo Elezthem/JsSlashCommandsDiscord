@@ -1,0 +1,2 @@
+# JsSlashCommandsDiscord
+JavaScript Slash Commands
